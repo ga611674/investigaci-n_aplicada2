@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "raza": "Pitbull",
+        "nombre": "Mike",
+        "edad": "12",
+        "estatura": "1 metro",
+        "peso": "30 kilos"
+    },
+    {
+        "id": "2",
+        "raza": "Bull Terrier",
+        "nombre": "Gufy",
+        "edad": "8 años",
+        "estatura": "65 cm",
+        "peso": "12 kilos"
+    },
+    {
+        "id": "3",
+        "raza": "Rottweiler",
+        "nombre": "pepe",
+        "edad": "10",
+        "estatura": "1.5 metros",
+        "peso": "20 kilos"
+    },
+    {
+        "id": "4",
+        "raza": "Husky siberiano",
+        "nombre": "abelardo",
+        "edad": "15",
+        "estatura": "1 metro",
+        "peso": "40 kilos"
+    }
+]
