@@ -11,11 +11,11 @@ app.use(morgan('dev'));
 app.use(express.urlencoded({extended: false}));
 app.use(express.json());
 
-//routes //RUTAS
+//RUTAS
 app.use(require('./routes/pets'));
 app.use('/api/pets',require('./routes/pets'));
 
-//Starting the server //Comienza el servidor
+//Comienza el servidor
 app.listen(app.get('port'), () => {
     console.log(`Server on port ${app.get('port')}`);
 });
